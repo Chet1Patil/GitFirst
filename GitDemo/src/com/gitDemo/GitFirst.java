@@ -29,6 +29,11 @@ public class GitFirst
 		System.out.println("This is  method 5");
 		
 	}
+	public void m6()
+	{
+		System.out.println("This is  method 6");
+		
+	}
 	
 	public static void main(String[] args) {
 		
