@@ -19,6 +19,12 @@ public class GitFirst
 		
 	}
 	
+	public void m4()
+	{
+		System.out.println("This is method 4");
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Hello");
