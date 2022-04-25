@@ -13,6 +13,12 @@ public class GitFirst
 		
 	}
 	
+	public void m3()
+	{
+		System.out.println("This is method 3");
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Hello");
